@@ -1,6 +1,9 @@
 
 # AgOpenGPS  ****  Guidance software
 
+Modification of the version 5.2  Adds a rate kml feature.  
+Created just for fun.  Don't use for real.  Not responsible for anything.
+
 Most stable release here: https://github.com/farmerbriantee/AgOpenGPS/releases
 
 Discussed in detail: https://discourse.agopengps.com/
